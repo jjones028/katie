@@ -10,4 +10,5 @@ fun main() {
     val manifest = parser.parse()
 
     println(manifest)
+    println("DONE!")
 }
